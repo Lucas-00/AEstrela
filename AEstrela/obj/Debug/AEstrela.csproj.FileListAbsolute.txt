@@ -1,0 +1,15 @@
+D:\AulaIA\AEstrela\AEstrela\bin\Debug\AEstrela.exe.config
+D:\AulaIA\AEstrela\AEstrela\bin\Debug\AEstrela.exe
+D:\AulaIA\AEstrela\AEstrela\bin\Debug\AEstrela.pdb
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.csprojResolveAssemblyReference.cache
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\MainWindow.g.cs
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\App.g.cs
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.cache
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.lref
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\MainWindow.baml
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.g.resources
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.Properties.Resources.resources
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.GenerateResource.Cache
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.CoreCompileInputs.cache
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.exe
+D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.pdb
