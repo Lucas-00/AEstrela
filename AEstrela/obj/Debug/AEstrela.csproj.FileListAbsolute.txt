@@ -1,15 +1,44 @@
-D:\AulaIA\AEstrela\AEstrela\bin\Debug\AEstrela.exe.config
-D:\AulaIA\AEstrela\AEstrela\bin\Debug\AEstrela.exe
-D:\AulaIA\AEstrela\AEstrela\bin\Debug\AEstrela.pdb
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.csprojResolveAssemblyReference.cache
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\MainWindow.g.cs
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\App.g.cs
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.cache
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.lref
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\MainWindow.baml
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.g.resources
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.Properties.Resources.resources
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.GenerateResource.Cache
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.CoreCompileInputs.cache
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.exe
-D:\AulaIA\AEstrela\AEstrela\obj\Debug\AEstrela.pdb
+D:\IA2703\AEstrela\AEstrela\obj\Debug\MainWindow.g.cs
+D:\IA2703\AEstrela\AEstrela\obj\Debug\App.g.cs
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.cache
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.lref
+D:\IA2703\AEstrela\AEstrela\bin\Debug\AEstrela.exe.config
+D:\IA2703\AEstrela\AEstrela\bin\Debug\AEstrela.exe
+D:\IA2703\AEstrela\AEstrela\bin\Debug\AEstrela.pdb
+D:\IA2703\AEstrela\AEstrela\obj\Debug\MainWindow.baml
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela.g.resources
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela.Properties.Resources.resources
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.GenerateResource.Cache
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.CoreCompileInputs.cache
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela.exe
+D:\IA2703\AEstrela\AEstrela\obj\Debug\AEstrela.pdb
+D:\lucasIA\AEstrela\AEstrela\bin\Debug\AEstrela.exe.config
+D:\lucasIA\AEstrela\AEstrela\bin\Debug\AEstrela.exe
+D:\lucasIA\AEstrela\AEstrela\bin\Debug\AEstrela.pdb
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\MainWindow.g.cs
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\App.g.cs
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.cache
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.lref
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\MainWindow.baml
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela.g.resources
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela.Properties.Resources.resources
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.GenerateResource.Cache
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.CoreCompileInputs.cache
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela.exe
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela.pdb
+D:\lucasIA\AEstrela\AEstrela\obj\Debug\AEstrela.csprojResolveAssemblyReference.cache
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\bin\Debug\AEstrela.exe.config
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\bin\Debug\AEstrela.exe
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\bin\Debug\AEstrela.pdb
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela.csprojResolveAssemblyReference.cache
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\MainWindow.g.cs
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\App.g.cs
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.cache
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela_MarkupCompile.lref
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\MainWindow.baml
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela.g.resources
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela.Properties.Resources.resources
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.GenerateResource.Cache
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela.csproj.CoreCompileInputs.cache
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela.exe
+C:\Users\lucas 3\Downloads\ADS\3 e 4 Periodo ADS 2018\IA\AEstrela\AEstrela\obj\Debug\AEstrela.pdb

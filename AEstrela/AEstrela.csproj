@@ -54,6 +54,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AEstrelaProc.cs" />
+    <Compile Include="FilaOrdenada.cs" />
+    <Compile Include="Heuristica.cs" />
+    <Compile Include="Rastreamento.cs" />
+    <Compile Include="Vertice.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
